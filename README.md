@@ -18,8 +18,8 @@ ipython notebook
 ```
 ## Findings
 
-* People giveaway couches, tvs as free more often than others.
-* The words like large, heavy , pick, take suggests that people giveaway heavier things.
+* People giveaway **couches, tvs** as free more often than others.
+* The words like **large, heavy , pick, take** suggests that people giveaway heavier things.
 * People who live in chicago posts more often than suburbs.
 * 24 day of month has more Posts (reason unknown).
 * More posts between 20-24 days that is end of the month.

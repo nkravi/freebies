@@ -1,13 +1,13 @@
 # Freebies
 
-> In this project we have scrapped data from https://chicago.craigslist.org/search/zip to see what do people give for free and why?
+> In this project we have scrapped data from [cragslist](https://chicago.craigslist.org/search/zip) to see what do people give for free and why?
 > and to find whether there is a pattern in how people post free stuff on cragslist?
 
 ## Notebooks
 
-* DataCollection - Contains code for collecting data 
-* DataPreprocessing - Contains code for pre processing collected data
-* Datavisualization - Contains visualization plots and findings about the data
+* [DataCollection](https://github.com/nravi89/freebies/blob/master/DataCollection.ipynb) - Contains code for collecting data 
+* [DataPreprocessing](https://github.com/nravi89/freebies/blob/master/DataPreprocessing.ipynb) - Contains code for pre processing collected data
+* [Datavisualization](https://github.com/nravi89/freebies/blob/master/Datavisualization.ipynb) - Contains visualization plots and findings about the data
 
 
 ## Usage

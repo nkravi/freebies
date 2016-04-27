@@ -6,7 +6,7 @@
 ## Notebooks
 
 * DataCollection - Contains code for collecting data 
-* DataPreprocessing - Contains code for collected data
+* DataPreprocessing - Contains code for pre processing collected data
 * Datavisualization - Contains visualization plots and findings about the data
 
 
